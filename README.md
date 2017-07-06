@@ -14,14 +14,14 @@
 
 ---
 
-### 使用教程
-* [All-in-One](#All-in-One)
+* [使用教程](#all-in-one)
     * [Windows](#windows)
     * [macOS](#macos)
     * [iOS](#ios)
     	* [基础版](#基础版)
     	* [进阶版](#进阶版)（[了解详情](https://github.com/lhie1/Surge)）
     * [Android](#android)
+* [联系方式](#联系方式)
 
 ### All-in-One
 #### Windows
@@ -73,3 +73,13 @@
 3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - ANDROID`模块，将`普通端口地址`填进去并添加即可。
 
 4. 选择`路由 -> 自定义ACL文件 -> 输入下载地址 - 输入“https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl”`
+
+---
+### 联系方式
+
+About | Link |
+---------|:---------:
+新浪微博 | [@lhie1](http://www.weibo.com/1748625493)
+🐰 Club| https://t.me/tuClub
+🐰 Club News| https://t.me/tuClubNews
+WeChat| lhie1x
