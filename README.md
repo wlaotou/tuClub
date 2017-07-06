@@ -81,5 +81,6 @@ About | Link |
 ---------|:---------:
 新浪微博 | [@lhie1](http://www.weibo.com/1748625493)
 Email| lhie1x@gmail.com
+Telegram| https://t.me/lhie1
 🐰 Club| https://t.me/tuClub
 🐰 Club News| https://t.me/tuClubNews
