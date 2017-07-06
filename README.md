@@ -9,7 +9,7 @@
 方便快捷的配置：
 * Windows：订阅模式
 * macOS：导入配置文件
-* iOS：Workflow；
+* iOS：Workflow
 * Android：订阅模式
 
 ---
