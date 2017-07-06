@@ -19,6 +19,8 @@
     * [Windows](#windows)
     * [macOS](#macos)
     * [iOS](#ios)
+    	* [基础版](#小白基础版)
+    	* [进阶版](#进阶版)
     * [Android](#android)
 
 ### All-in-One
@@ -46,7 +48,7 @@
 
 #### iOS
 
-##### 小白基础版：
+##### 基础版：
 
 1. 下载：[Shadowrocket(¥ 18)](https://appsto.re/cn/UDjM3.i) 和 [Worfklow](https://appsto.re/cn/2IzJ2.i) 
 
@@ -54,7 +56,7 @@
 
 3. 将 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的邮箱/密码填入`🐰 User Data`点击正上方的`▶️`即可导入节点信息。
 
-##### 进阶版[详细类容](https://github.com/lhie1/Surge)：
+##### 进阶版：[了解详情](https://github.com/lhie1/Surge)
 
 1. 下载：[Shadowrocket(¥ 18)](https://appsto.re/cn/UDjM3.i) 或 [Surge（¥ 328）](https://appsto.re/cn/D0Q_9.i) 和 [Worfklow](https://appsto.re/cn/2IzJ2.i) 
 
