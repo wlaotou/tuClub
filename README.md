@@ -80,6 +80,6 @@
 About | Link |
 ---------|:---------:
 新浪微博 | [@lhie1](http://www.weibo.com/1748625493)
+Email| lhie1x@gmail.com
 🐰 Club| https://t.me/tuClub
 🐰 Club News| https://t.me/tuClubNews
-WeChat| lhie1x
