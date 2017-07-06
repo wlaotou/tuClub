@@ -16,13 +16,13 @@
 
 ### 使用教程
 * [All-in-One](#All-in-One)
-    * [Windows](#Windows)
-    * [macOS](#macOS)
-    * [iOS](#iOS)
-    * [Android](#Android)
+    * [Windows](#windows)
+    * [macOS](#macos)
+    * [iOS](#ios)
+    * [Android](#android)
 
 ### All-in-One
-#### Windows（使用前，请尽量关闭所有管家类软件）
+#### Windows
 
 1. 下载 [ShadowsocksR](https://xn--h5qz41fzgdxxl.com/ssr-download/ssr-win.7z)，解压并运行。
 
