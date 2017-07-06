@@ -50,7 +50,7 @@
 
 ##### 基础版：
 
-1. 下载：[Shadowrocket(¥ 18)](https://appsto.re/cn/UDjM3.i) 和 [Worfklow](https://appsto.re/cn/2IzJ2.i) 
+1. 下载：[Shadowrocket(¥ 18)](https://appsto.re/cn/UDjM3.i) 和 [Worfklow(Free)](https://appsto.re/cn/2IzJ2.i) 
 
 2. Get：[🐰 User Data Lite](http://t.cn/Ro3pQMp)
 
@@ -58,7 +58,7 @@
 
 ##### 进阶版：
 
-1. 下载：[Shadowrocket(¥ 18)](https://appsto.re/cn/UDjM3.i) 或 [Surge（¥ 328）](https://appsto.re/cn/D0Q_9.i) 和 [Worfklow](https://appsto.re/cn/2IzJ2.i) 
+1. 下载：[Shadowrocket(¥ 18)](https://appsto.re/cn/UDjM3.i) 或 [Surge（¥ 328）](https://appsto.re/cn/D0Q_9.i) 和 [Worfklow(Free)](https://appsto.re/cn/2IzJ2.i) 
 
 2. Get：[🐰 User Data](https://workflow.is/workflows/6bb238dc6ddd44abb882ebe09f40cc9e) 和 [Rule OTA](https://workflow.is/workflows/4caa1c35ea1a406680abb7e269cdc3a0) 
 
