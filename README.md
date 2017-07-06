@@ -40,7 +40,7 @@
 
 1. 下载 [ShadowsocksX](https://xn--h5qz41fzgdxxl.com/ssr-download/ssr-mac.dmg)，拖至`应用程序`文件夹内，运行。
 
-2. 登陆 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) ，再回到此页面下载 [配置文件](https://xn--h5qz41fzgdxxl.com/user/getpcconf?without_mu=0)
+2. 登陆 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) ，下载 [配置文件](https://xn--h5qz41fzgdxxl.com/user/getpcconf?without_mu=0)
 
 3. 右键`ShadowsocksX`托盘图标，点击`服务器 -> 导入服务器配置文件...`，选择刚刚下载的`gui-config.json`即可。
 
