@@ -23,6 +23,8 @@
     * [Android](#android)
 * [联系方式](#联系方式)
 
+---
+
 ### All-in-One
 #### Windows
 
