@@ -20,7 +20,6 @@
     * [iOS](#ios)
     	* [基础版](#基础版)
     	* [进阶版](#进阶版)（[了解详情](https://github.com/lhie1/Surge)）
-         * [AuthKey](#authkey)
     * [Android](#android)
 * [联系方式](#联系方式)
 
