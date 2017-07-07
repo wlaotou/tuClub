@@ -19,7 +19,7 @@
     * [macOS](#macos)
     * [iOS](#ios)
     	* [基础版](#基础版)
-    	* [进阶版](#进阶版)（[了解详情](https://github.com/lhie1/Surge)）
+    	* [进阶版](#进阶版)（[了解详情](https://github.com/lhie1/Surge/blob/master/README.md)）
     * [Android](#android)
 * [联系方式](#联系方式)
 
