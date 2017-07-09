@@ -6,11 +6,19 @@
 
 高质量线路 + 独特的TCP加速：均通过 YouTube 4K 测试，8K 同样也可流畅播放；部分节点可观看 Netflix、TVB
 
-方便快捷的配置：
+方便快捷的配置
 * Windows：订阅模式
 * macOS：导入配置文件
 * iOS：Workflow
 * Android：订阅模式
+
+无可挑剔的售后
+* WeChat：lhie1x
+* Telegram：[lhie1](https://t.me/lhie1)
+
+获取最新通知
+* 讨论组：[🐰 Club](https://t.me/tuClub)
+* 公告通知：[🐰 Club News](https://t.me/tuClubNews)
 
 ---
 
