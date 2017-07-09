@@ -72,7 +72,7 @@
 
 3. 将 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的邮箱/密码填入`🐰 User Data`点击正上方的`▶️`即可导入节点信息。
 
-![User Data Lite 截图](https://github.com/lhie1/tuClub/blob/master/images/User_Data_Lite.JPG "User Data Lite")
+![User Data Lite](https://raw.githubusercontent.com/lhie1/tuClub/master/images/User_Data_Lite.JPG)
 
 ##### 进阶版：
 
