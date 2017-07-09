@@ -12,7 +12,7 @@
 	* iOS：Workflow
 	* Android：订阅模式
 
-*无可挑剔的售后
+* 无可挑剔的售后
 	* 三天不满意退款
 	* 尽量满足每位用户的需求
 	* WeChat：lhie1x
