@@ -6,19 +6,21 @@
 
 高质量线路 + 独特的TCP加速：均通过 YouTube 4K 测试，8K 同样也可流畅播放；部分节点可观看 Netflix、TVB
 
-方便快捷的配置
-* Windows：订阅模式
-* macOS：导入配置文件
-* iOS：Workflow
-* Android：订阅模式
+* 方便快捷的配置
+	* Windows：订阅模式
+	* macOS：导入配置文件
+	* iOS：Workflow
+	* Android：订阅模式
 
-无可挑剔的售后
-* WeChat：lhie1x
-* Telegram：[lhie1](https://t.me/lhie1)
+*无可挑剔的售后
+	* 三天不满意退款
+	* 尽量满足每位用户的需求
+	* WeChat：lhie1x
+	* Telegram：[lhie1](https://t.me/lhie1)
 
-获取最新通知
-* 讨论组：[🐰 Club](https://t.me/tuClub)
-* 公告通知：[🐰 Club News](https://t.me/tuClubNews)
+* 获取最新通知
+	* 讨论组：[🐰 Club](https://t.me/tuClub)
+	* 公告通知：[🐰 Club News](https://t.me/tuClubNews)
 
 ---
 
@@ -70,6 +72,8 @@
 
 3. 将 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的邮箱/密码填入`🐰 User Data`点击正上方的`▶️`即可导入节点信息。
 
+![User Data Lite截图](https://github.com/waylybaye/HyperApp-Guide/raw/master/images/manage-server.png "添加服务器")
+
 ##### 进阶版：
 
 1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i) 或 [Surge（¥ 328）](https://appsto.re/cn/D0Q_9.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
@@ -101,3 +105,5 @@ Email| lhie1x@gmail.com
 Telegram| https://t.me/lhie1
 🐰 Club| https://t.me/tuClub
 🐰 Club News| https://t.me/tuClubNews
+
+
