@@ -66,7 +66,7 @@
 
 ##### 基础版：
 
-1. 下载：[Shadowrocket（¥ 18)）](https://appsto.re/cn/UDjM3.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
+1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
 
 2. Get：[🐰 User Data Lite](https://workflow.is/workflows/498bfd1f75ef4585a1eed11cbad49975)
 
