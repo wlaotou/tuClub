@@ -88,7 +88,7 @@
 
 1. 下载 [SSR](https://xn--h5qz41fzgdxxl.com/ssr-download/ssr-android.apk)，安装并运行。
 
-2. 点击应用顶部的`ShadowsocksR ⬇️` -> `➕` -> 添加/升级 SSR 订阅`
+2. 点击应用顶部的`ShadowsocksR ⬇️` -> `➕` -> `添加/升级 SSR 订阅`
 
 3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - ANDROID`模块，将`普通端口地址`填进去并添加即可。
 
