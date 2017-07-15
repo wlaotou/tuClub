@@ -15,7 +15,6 @@
 * 无可挑剔的售后
 	* 三天不满意退款
 	* 尽量满足每位用户的需求
-	* WeChat：lhie1x
 	* Telegram：[lhie1](https://t.me/lhie1)
 
 * 获取最新通知
