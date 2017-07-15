@@ -4,7 +4,7 @@
 
 [爱兔联盟.com](https://xn--h5qz41fzgdxxl.com) 正式创建于 2017/05/24
 
-高质量线路 + 独特的TCP加速：均通过 YouTube 4K 测试，8K 同样也可流畅播放；部分节点可观看 Netflix、TVB
+高质量线路 + 独特的TCP加速：均通过 YouTube 4K 测试，8K 同样也可流畅播放；部分节点可观看 Netflix、MytvSUPER、Dmm、Niconico
 
 * 方便快捷的配置
 	* Windows：订阅模式
