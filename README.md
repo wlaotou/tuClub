@@ -39,7 +39,7 @@
 
 1. 下载 [ShadowsocksR](https://xn--h5qz41fzgdxxl.com/ssr-download/ssr-win.7z)，解压并运行。
 
-2. 右键`ShadowsocksR`托盘图标，点击`服务器 -> SSR服务器订阅设置`。
+2. 右键`ShadowsocksR`托盘图标，点击`SSR服务器订阅 -> SSR服务器订阅设置`。
 
 3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - WINDOWS`模块，将`普通端口地址`填进去并添加即可。
 
@@ -91,7 +91,9 @@
 
 3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - ANDROID`模块，将`普通端口地址`填进去并添加即可。
 
-4. 选择`路由 -> 自定义ACL文件 -> 输入下载地址 - 输入“https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl”`
+4. 打开`UDP 转发`，选择`路由 -> 绕过局域网和中国大陆地址`
+
+![Android](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Android.jpeg)
 
 ---
 
