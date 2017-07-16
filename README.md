@@ -41,7 +41,7 @@
 
 2. 右键`ShadowsocksR`托盘图标，点击`SSR服务器订阅 -> SSR服务器订阅设置`。
 
-3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - WINDOWS`模块，将`普通端口地址`后面的`link（类似于：https://xn--h5qz41fzgdxxl.com/link/xxxxxxxxx?mu=0）`填进`地址`并点击`Add`并确定。
+3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - WINDOWS`模块，将`普通端口地址`后面的`link（类似于：https://xn--h5qz41fzgdxxl.com/link/xxxxxxxxx?mu=0）`填进`地址`，点击`Add`，点击`确定`。
 
 4. 右键`ShadowsocksR`托盘图标，`服务器 -> 更新SSR服务器订阅`。
 
