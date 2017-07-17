@@ -47,6 +47,8 @@
 
 5. 选择一个合适的节点，系统代理模式选`全局模式`，代理规则选`绕过局域网和大陆`。
 
+![Windows](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows.JPG)
+
 ---
 
 #### macOS
