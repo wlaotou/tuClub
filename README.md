@@ -2,6 +2,8 @@
 
 ### tuClub 简介
 
+首先，[爱兔联盟.com](https://xn--h5qz41fzgdxxl.com) 为了给我们的会员提供良好的稳定性以及高速服务，不提供免费试用，不充值购买将无法使用（签到获得的流量也无效）
+
 [爱兔联盟.com](https://xn--h5qz41fzgdxxl.com) 正式创建于 2017/05/24
 
 高质量线路 + 独特的TCP加速：均通过 YouTube 4K 测试，8K 同样也可流畅播放；部分节点可观看 Netflix、MytvSUPER、Dmm、Niconico
@@ -47,7 +49,9 @@
 
 5. 选择一个合适的节点，系统代理模式选`全局模式`，代理规则选`绕过局域网和大陆`。
 
-![Windows](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows.JPG)
+![Windows1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows1.PNG)
+![Windows2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows2.jpg)
+![Windows3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows3.PNG)
 
 ---
 
