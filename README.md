@@ -2,9 +2,7 @@
 
 ### tuClub 简介
 
-首先，[爱兔联盟.com](https://xn--h5qz41fzgdxxl.com) 为了给我们的会员提供高速稳定的服务以及对安全方面的考虑，暂不提供免费试用，不充值购买将无法使用（签到获得的流量也无效）
-
-[爱兔联盟.com](https://xn--h5qz41fzgdxxl.com) 正式创建于 2017/05/24
+[爱兔联盟.com](https://xn--h5qz41fzgdxxl.com) 为了给我们的会员提供高速稳定的服务以及对安全方面的考虑，暂不提供免费试用，不充值购买将无法使用（签到获得的流量也无效）
 
 高质量线路 + 独特的TCP加速：均通过 YouTube 4K 测试，8K 同样也可流畅播放；部分节点可观看 Netflix、MytvSUPER、Dmm、Niconico
 
