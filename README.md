@@ -48,8 +48,9 @@
 5. 选择一个合适的节点，系统代理模式选`全局模式`，代理规则选`绕过局域网和大陆`。
 
 ![Windows1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows1.PNG)
-![Windows2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows2.jpg)
-![Windows3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows3.PNG)
+![Windows2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows2.jpeg)
+![Windows3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows3.jpg)
+![Windows4](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows4.PNG)
 
 ---
 
@@ -62,6 +63,12 @@
 3. 右键`ShadowsocksX`托盘图标，点击`服务器 -> 导入服务器配置文件...`，选择刚刚下载的`gui-config.json`即可。
 
 4. 选择一个合适的节点，选择`白名单模式`。
+
+![macOS1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS1.jpeg)
+![macOS2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS2.jpeg)
+![macOS3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS3.jpeg)
+![macOS4](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS4.jpeg)
+![macOS5](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS5.jpeg)
 
 ---
 
