@@ -43,7 +43,7 @@
 
 3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - WINDOWS`模块，将`普通端口地址`后面的`link（类似于：https://xn--h5qz41fzgdxxl.com/link/xxxxxxxxx?mu=0）`填进`地址`，点击`Add`，点击`确定`。
 
-4. 右键`ShadowsocksR`托盘图标，`服务器 -> 更新SSR服务器订阅`。
+4. 右键`ShadowsocksR`托盘图标，`服务器 -> 更新SSR服务器订阅（不通过代理）`。
 
 5. 选择一个合适的节点，系统代理模式选`全局模式`，代理规则选`绕过局域网和大陆`。
 
@@ -58,11 +58,13 @@
 
 1. 下载 [ShadowsocksX](https://xn--h5qz41fzgdxxl.com/ssr-download/ssr-mac.dmg)，拖至`应用程序`文件夹内，运行。
 
-2. 登陆 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) ，下载 [配置文件](https://xn--h5qz41fzgdxxl.com/user/getpcconf?without_mu=0)
+2. 点击`ShadowsocksR`托盘图标，点击`服务器 -> 编辑订阅`。
 
-3. 右键`ShadowsocksX`托盘图标，点击`服务器 -> 导入服务器配置文件...`，选择刚刚下载的`gui-config.json`即可。
+3. 点击`+`，找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - WINDOWS`模块，将`普通端口地址`后面的`link（类似于：https://xn--h5qz41fzgdxxl.com/link/xxxxxxxxx?mu=0）`，填进`订阅地址`，点击`OK`。
 
-4. 选择一个合适的节点，选择`白名单模式`。
+4. 点击`服务器 -> 手动更新订阅`。
+
+5. 选择一个合适的节点，选择`白名单模式`。
 
 ![macOS1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS1.jpeg)
 ![macOS2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS2.jpeg)
