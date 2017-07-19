@@ -47,10 +47,10 @@
 
 5. 选择一个合适的节点，系统代理模式选`全局模式`，代理规则选`绕过局域网和大陆`。
 
-![Windows1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows1.PNG)
+![Windows1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows1.png)
 ![Windows2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows2.jpeg)
 ![Windows3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows3.jpg)
-![Windows4](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows4.PNG)
+![Windows4](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows4.png)
 
 ---
 
