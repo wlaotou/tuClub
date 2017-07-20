@@ -66,7 +66,7 @@
 
 5. 选择一个合适的节点，选择`白名单模式`。
 
-（此版本为测试版，部分用户反映点`OK`时会抖动无法添加，这时候关掉软件再打开应该就添加成功了，如果没有从`第 2 步`再次尝试导入）
+（此版本为测试版，部分用户反映点`OK`时会抖动无法添加，这时候将`组名`填上任意内容应该就添加成功了）
 
 ![macOS1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS1.jpeg)
 ![macOS2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS2.jpeg)
