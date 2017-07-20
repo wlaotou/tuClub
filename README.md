@@ -80,7 +80,7 @@
 
 1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
 
-2. GET WORKFLOW：[🐰 User Data Lite](https://workflow.is/workflows/cd9b1c53f0f94cba9bb706772de412e6)
+2. GET WORKFLOW：[🐰 User Data Lite](https://workflow.is/workflows/068009ecc4aa48789e8639e56237ef4f)
 
 3. 将 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的邮箱/密码填入`🐰 User Data`点击正上方的`▶️`即可导入节点信息。
 
@@ -90,7 +90,7 @@
 
 1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i) 或 [Surge（¥ 328）](https://appsto.re/cn/D0Q_9.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
 
-2. Get：[🐰 User Data](https://workflow.is/workflows/2215cf4843f14da394bd17cecc0da48a) 和 [Rule OTA](https://workflow.is/workflows/4caa1c35ea1a406680abb7e269cdc3a0) 
+2. Get：[🐰 User Data](https://workflow.is/workflows/7e447e7cee6948d4b711961a7dfe4380) 和 [Rule OTA](https://workflow.is/workflows/74cff5a0aea14f78acccab2d135e73fe)
 
 3. 将 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的邮箱/密码填入`🐰 User Data`点击正上方的`▶️`等待流程运行完毕导出至相对应程序即可。
 
