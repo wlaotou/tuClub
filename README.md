@@ -96,7 +96,7 @@
 
 1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
 
-2. GET WORKFLOW：[🐰 User Data Lite](https://workflow.is/workflows/068009ecc4aa48789e8639e56237ef4f)
+2. GET WORKFLOW：[🐰 User Data Lite](https://workflow.is/workflows/fbb3d2e88aee47ea912c40b0e39c9bd0)
 
 3. 将 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的邮箱/密码填入`🐰 User Data`点击正上方的`▶️`即可导入节点信息。
 
