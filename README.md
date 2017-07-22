@@ -102,6 +102,8 @@
 
 ![User Data Lite](https://raw.githubusercontent.com/lhie1/tuClub/master/images/User_Data_Lite.JPG)
 
+![Shadowrocket](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Shadowrocket.JPG)
+
 ##### 进阶版：
 
 1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i) 或 [Surge（¥ 328）](https://appsto.re/cn/D0Q_9.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
