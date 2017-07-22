@@ -60,10 +60,11 @@
 
 2. 打开[爱兔联盟的节点列表](https://xn--h5qz41fzgdxxl.com.com/user/node)，任意选择一条延迟低的节点（香港、日本等），复制`配置链接`。
 
-3. 点击`ShadowsocksR-Tap`界面中`+`将复制的内容粘贴进去，点击`确认`，再点击`连接`。
+3. 点击`ShadowsocksR-Tap`界面中`+`，选择`SS/SSR`，将复制的内容粘贴进去，点击`确认`，再点击`连接`。
 
 ![GAME1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME1.png)
 ![GAME2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME2.png)
+![GAME3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME3.png)
 
 ---
 
