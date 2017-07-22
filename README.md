@@ -26,6 +26,7 @@
 
 * [使用教程](#all-in-one)
     * [Windows](#windows)
+    	* [游戏模式](#游戏模式)
     * [macOS](#macos)
     * [iOS](#ios)
     	* [基础版](#基础版)
@@ -52,6 +53,17 @@
 ![Windows2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows2.jpeg)
 ![Windows3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows3.jpg)
 ![Windows4](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows4.png)
+
+##### 游戏模式
+
+1. 下载 [ShadowsocksR-Tap](https://xn--h5qz41fzgdxxl.com/ssr-download/ssr-tap.zip)，解压，并运行。
+
+2. 打开[爱兔联盟的节点列表](https://xn--h5qz41fzgdxxl.com.com/user/node)，任意选择一条延迟低的节点（香港、日本等），复制`配置链接`。
+
+3. 点击`ShadowsocksR-Tap`界面中`+`将复制的内容粘贴进去，点击`确认`，再点击`连接`。
+
+![GAME1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME1.png)
+![GAME2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME2.png)
 
 ---
 
