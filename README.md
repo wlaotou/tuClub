@@ -43,7 +43,7 @@
 
 2. 右键`ShadowsocksR`托盘图标，点击`SSR服务器订阅 -> SSR服务器订阅设置`。
 
-3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - WINDOWS`模块，将`普通端口地址`后面的`link（类似于：https://xn--h5qz41fzgdxxl.com/link/xxxxxxxxx?mu=0）`填进`地址`，点击`Add`，点击`确定`。
+3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One`模块，点击`复制订阅地址到剪切板`，填进`地址`，点击`Add`，点击`确定`。
 
 4. 右键`ShadowsocksR`托盘图标，`服务器 -> 更新SSR服务器订阅（不通过代理）`。
 
@@ -75,7 +75,7 @@
 
 2. 点击`ShadowsocksR`托盘图标，点击`服务器 -> 编辑订阅`。
 
-3. 点击`+`，找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - WINDOWS`模块，将`普通端口地址`后面的`link（类似于：https://xn--h5qz41fzgdxxl.com/link/xxxxxxxxx?mu=0）`，填进`订阅地址`，点击`OK`。
+3. 点击`+`，找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One`模块，点击`复制订阅地址到剪切板`，填进`订阅地址`，点击`OK`。
 
 4. 点击`服务器 -> 手动更新订阅`。
 
@@ -95,13 +95,9 @@
 
 ##### 基础版：
 
-1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
+1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i)
 
-2. GET WORKFLOW：[🐰 User Data Lite](https://workflow.is/workflows/a185a2c42a1c49ef80a1da0fea501e09)
-
-3. 将 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的邮箱/密码填入`🐰 User Data`点击正上方的`▶️`即可导入节点信息。
-
-![User Data Lite](https://raw.githubusercontent.com/lhie1/tuClub/master/images/User_Data_Lite.JPG)
+2. 打开`Shadowrkcoet`，点击首页的右上角的`+`，选择类型：`Subscribe`，找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One`模块，点击`复制订阅地址到剪切板`，将复制的内容填入`URL`后面的编辑框，点击`完成`。
 
 ![Shadowrocket](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Shadowrocket.JPG)
 
@@ -121,7 +117,7 @@
 
 2. 点击应用顶部的`ShadowsocksR ⬇️` -> `➕` -> `添加/升级 SSR 订阅`
 
-3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One - ANDROID`模块，将`普通端口地址`填进去并添加即可。
+3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One`模块，点击`复制订阅地址到剪切板`，填进去并添加即可。
 
 4. 打开`UDP 转发`，选择`路由 -> 绕过局域网和中国大陆地址`
 
