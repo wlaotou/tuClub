@@ -49,10 +49,10 @@
 
 5. 选择一个合适的节点，系统代理模式选`全局模式`，代理规则选`绕过局域网和大陆`。
 
-![Windows1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows1.png)
-![Windows2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows2.jpeg)
-![Windows3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows3.jpg)
-![Windows4](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows4.png)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows1.png)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows2.jpeg)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows3.jpg)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Windows4.png)
 
 ##### 游戏模式
 
@@ -62,10 +62,10 @@
 
 3. 点击`ShadowsocksR-Tap`界面中`+`，选择`SS/SSR`，将复制的内容粘贴进去，点击`确认`，再点击`连接`。
 
-![GAME1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME1.png)
-![GAME2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME2.png)
-![GAME3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME3.png)
-![GAME4](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME4.PNG)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME1.png)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME2.png)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME3.png)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/GAME4.PNG)
 
 ---
 
@@ -83,11 +83,11 @@
 
 （此版本为测试版，部分用户反映点`OK`时会抖动无法添加，这时候将`组名`填上任意内容应该就添加成功了）
 
-![macOS1](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS1.jpeg)
-![macOS2](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS2.jpeg)
-![macOS3](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS3.jpeg)
-![macOS4](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS4.jpeg)
-![macOS5](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS5.jpeg)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS1.jpeg)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS2.jpeg)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS3.jpeg)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS4.jpeg)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/macOS5.jpeg)
 
 ---
 
@@ -99,7 +99,7 @@
 
 2. 打开`Shadowrkcoet`，点击首页的右上角的`+`，选择类型：`Subscribe`，找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One`模块，点击`复制订阅地址到剪切板`，将复制的内容填入`URL`后面的编辑框，点击`完成`。
 
-![Shadowrocket](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Shadowrocket.JPG)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Shadowrocket.JPG)
 
 ##### 进阶版：
 
@@ -122,7 +122,7 @@
 
 4. 打开`UDP 转发`，选择`路由 -> 绕过局域网和中国大陆地址`
 
-![Android](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Android.jpeg)
+![](https://raw.githubusercontent.com/lhie1/tuClub/master/images/Android.jpeg)
 
 ---
 
@@ -130,7 +130,7 @@
 
 About | Link |
 ---------|:---------:
-新浪微博 | [@lhie1](http://www.weibo.com/1748625493)
+微博：| [@lhie1](http://www.weibo.com/1748625493)
 Email| lhie1x@gmail.com
 Telegram| https://t.me/lhie1
 🐰 Club| https://t.me/tuClub
