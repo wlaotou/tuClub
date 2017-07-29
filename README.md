@@ -105,7 +105,7 @@
 
 1. 下载：[Shadowrocket（¥ 18）](https://appsto.re/cn/UDjM3.i) 或 [Surge（¥ 328）](https://appsto.re/cn/D0Q_9.i) 和 [Worfklow（Free）](https://appsto.re/cn/2IzJ2.i) 
 
-2. Get：[🐰 User Data](https://workflow.is/workflows/232a91e336934017902d831ec13a21db)
+2. Get：[🐰 User Data](https://workflow.is/workflows/dda9499429644c8d8c64e45725808439)
 [Rule OTA](https://workflow.is/workflows/e3644798c7f548319a1eca90992ec8be)
 
 3. 将 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的邮箱/密码填入`🐰 User Data`点击正上方的`▶️`等待流程运行完毕导出至相对应程序即可。
