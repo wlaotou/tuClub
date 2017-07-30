@@ -43,7 +43,7 @@
 
 2. 右键`ShadowsocksR`托盘图标，点击`SSR服务器订阅 -> SSR服务器订阅设置`。
 
-3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One`模块，点击`复制订阅地址到剪切板`，填进`地址`，点击`Add`，点击`确定`。
+3. 找到 [爱兔联盟](https://xn--h5qz41fzgdxxl.com/user) 的`All-in-One`模块，点击`复制订阅地址到剪切板`，填进`地址`，点击`Add`，点击`确定`（请确定左边列表中是否显示有“https://xn--h5qz41fzgdxxl.com/xxxxxx“，如果没有请再次添加）。
 
 4. 右键`ShadowsocksR`托盘图标，`服务器 -> 更新SSR服务器订阅（不通过代理）`。
 
