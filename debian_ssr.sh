@@ -75,6 +75,7 @@ rpl "WEBAPI_TOKEN = 'glzjin'" "WEBAPI_TOKEN = '${mukey}'" ./userapiconfig.py
 rpl "NODE_ID = 1" "NODE_ID = ${nodeid}" ./userapiconfig.py
 rpl "MU_SUFFIX = 'zhaoj.in'" "MU_SUFFIX = 'bing.com'" ./userapiconfig.py
 rpl "SPEEDTEST = 6" "SPEEDTEST = 0" ./userapiconfig.py
+rpl "\"fast_open\": false" "\"fast_open\": true" ./user-config.json
 
 #Make Supervisor Work
 echo "[program:ssr]
