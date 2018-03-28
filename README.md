@@ -2,7 +2,7 @@
 
 ### 墙洞简介
 
-[墙洞.com](https://xn--nos809b.com) 为了给我们的会员提供高速稳定的服务以及对安全方面的考虑，暂不提供免费试用，不充值购买将无法使用（签到获得的流量也无效）
+[墙洞.com](https://xn--nos809b.com) 为提供高速稳定的服务，暂不提供免费试用，不充值购买将无法使用
 
 高质量线路 + 独特的TCP加速：均通过 YouTube 4K 测试，8K 同样也可流畅播放；可观看 Netflix、MytvSUPER、Dmm、Niconico、Hulu
 
