@@ -9,7 +9,7 @@
 * 方便快捷的配置
 	* Windows：订阅模式
 	* macOS：订阅模式
-	* iOS：Workflow
+	* iOS：订阅模式/Workflow
 	* Android：订阅模式
 
 * 无可挑剔的售后
